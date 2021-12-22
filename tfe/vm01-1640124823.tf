@@ -5,7 +5,7 @@ module "vm01" {
   vm_size           = "small"
   vm_folder         = "VMaaS"
   vm_template       = "RHEL84"
-  region            = "canada"
+  region            = "india"
 
   data_disk = {
     disk1 = {
